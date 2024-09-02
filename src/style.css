@@ -1,0 +1,34 @@
+* .uploadzone{
+  border: dashed 5px;
+  text-align: center;
+}
+  .uploadzoneselected{
+    border: dashed 5px;
+    text-align: center;
+    color: red;
+  }
+  .uploadzonetext{
+    text-align: center;
+    font-size: 24px;
+  }
+  .correctimg{
+    width: 100%;
+  }
+  .uploadimg{
+    width: 80%;
+    /* margin: 10px; */
+
+  }
+
+  .box300{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+  .donetext{
+    text-align: center;
+    transform: translateX(-10%);
+  }
