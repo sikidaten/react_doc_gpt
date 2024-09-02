@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_doc_gpt/static/css/main.eb20b602.css",
+    "main.js": "/react_doc_gpt/static/js/main.52e31ea6.js",
+    "index.html": "/react_doc_gpt/index.html",
+    "main.eb20b602.css.map": "/react_doc_gpt/static/css/main.eb20b602.css.map",
+    "main.52e31ea6.js.map": "/react_doc_gpt/static/js/main.52e31ea6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb20b602.css",
+    "static/js/main.52e31ea6.js"
+  ]
+}
